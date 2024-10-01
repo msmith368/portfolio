@@ -6,3 +6,6 @@ The site features a responsive design, ensuring it looks great on all devices, a
 To set up this project locally, clone the repository and follow the standard npm install and npm run dev commands. For production, use npm run build to create an optimized version of the site.
 
 I want to acknowledge ForrestKnight for providing an excellent starting point with his tutorial. This project has allowed me to build upon that knowledge, experimenting with custom styling and gaining hands-on experience with React and Tailwind CSS.
+
+##
+The running version of this site can also be found at the link: [https://msmith368.github.io/portfolio/](https://msmith368.github.io/portfolio/), where it has been built and deployed through github pages.
